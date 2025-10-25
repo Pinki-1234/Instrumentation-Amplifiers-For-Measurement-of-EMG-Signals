@@ -1,0 +1,66 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'U5:Package_DIP:DIP-8_W7.62mm'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'U6:Package_DIP:DIP-8_W7.62mm'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C20:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C22:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C23:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C24:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C25:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C26:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C27:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C28:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C29:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'J1:Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J3:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R16:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R17:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R18:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R19:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R20:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R21:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'U1:Package_DIP:DIP-8_W7.62mm'.
+Info: Processing symbol 'U7:Package_DIP:DIP-8_W7.62mm'.
+Info: Processing symbol 'U2:Package_DIP:DIP-8_W7.62mm'.
+Info: Processing symbol 'U3:Package_DIP:DIP-8_W7.62mm'.
+Info: Processing symbol 'U4:Package_DIP:DIP-8_W7.62mm'.
+Reconnected C10 pin 2 from Net-(J1-Pin_2) to Net-(J1-Pin_1).
+Reconnected C8 pin 1 from Net-(J1-Pin_1) to Net-(J1-Pin_2).
+Reconnected U1 pin 4 from Net-(J1-Pin_1) to Net-(J1-Pin_2).
+Reconnected U1 pin 7 from Net-(J1-Pin_2) to Net-(J1-Pin_1).
+
+
+Info: Total warnings: 0, errors: 0.
